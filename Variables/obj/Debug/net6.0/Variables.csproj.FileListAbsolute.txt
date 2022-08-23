@@ -1,0 +1,15 @@
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/bin/Debug/net6.0/Variables
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/bin/Debug/net6.0/Variables.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Variables/obj/Debug/net6.0/ref/Variables.dll
