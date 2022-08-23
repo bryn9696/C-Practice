@@ -1,0 +1,15 @@
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
