@@ -1,0 +1,15 @@
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/bin/Debug/net6.0/Numbers
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/bin/Debug/net6.0/Numbers.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/bin/Debug/net6.0/Numbers.pdb
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/refint/Numbers.dll
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.pdb
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
+/Users/BrynWilliams/Projects/own/C# practice/HelloWorld/Numbers/obj/Debug/net6.0/ref/Numbers.dll
